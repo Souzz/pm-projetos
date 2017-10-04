@@ -1,45 +1,45 @@
-*{
+ul {
     margin: 0px;
-    padding: 0px;      
+    padding: 0px;    
 }
-
 li {
-    padding: 50px;
+    padding: 60px 40px 60px 100px;
     background-color: #4a4a4a;
     list-style-type: none;
     text-transform: uppercase;
     border-bottom: 3px solid white;
-    color: white;
-    font-family: 'Oswald', sans-serif;
-    font-weight: 500;
-    font-size: 20px;
-    text-align
-    
-    
-}
-
-.um {
-    background-color: #27ae60;
-}
-
-.um:hover {
-    background-color: #52be7f;
+    background-image: url('nao-feito.png');
+    background-repeat: no-repeat;
+    background-position: 40px center;
 }
 
 li:hover {
     background-color: #6e6e6e;
 }
 
+li.um {
+    background-color: #27ae60;
+    background-image: url('feito.png');
+}
+
+li.um:hover {
+    background-color: #52be7f;
+}
+
 a {
     text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    letter-spacing: 2px;
+    color: #ffffff;
+    display: block;
+    background-image: url('seta.png');
+    background-repeat: no-repeat;
+    background-position: right center;
 }
 
-ul#oi img#item {
-    position: absolute;
-    right: 50px;
-    
-}
 
-ul#oi img#
+
+
 
 
