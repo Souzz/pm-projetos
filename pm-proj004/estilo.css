@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+    padding: 0px;      
+}
+
+li {
+    padding: 50px;
+    background-color: #4a4a4a;
+    list-style-type: none;
+    text-transform: uppercase;
+    border-bottom: 3px solid white;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    text-align
+    
+    
+}
+
+.um {
+    background-color: #27ae60;
+}
+
+.um:hover {
+    background-color: #52be7f;
+}
+
+li:hover {
+    background-color: #6e6e6e;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul#oi img#item {
+    position: absolute;
+    right: 50px;
+    
+}
+
+ul#oi img#
+
+
